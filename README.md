@@ -1,3 +1,6 @@
+# Project Structure
+
+```mermaid
 graph TD
     A[Project Root]
     A --> B[db]
